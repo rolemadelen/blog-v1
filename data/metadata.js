@@ -22,6 +22,9 @@ const metadata = {
         repoId: 'R_kgDOHRtelA',
         category: 'General',
         categoryId: 'DIC_kwDOHRtelM4CO6wU',
+        theme: 'preferred_color_scheme',
+        lang: 'ko',
+        mapping: 'pathname',
     },
 
     analytics: {
