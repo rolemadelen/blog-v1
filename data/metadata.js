@@ -1,6 +1,6 @@
 const metadata = {
     author: {
-        name: 'Jii Eu',
+        name: 'Jii Yoo',
         id: 'bprsstnt',
     },
     title: 'be persistent',
